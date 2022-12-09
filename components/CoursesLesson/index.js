@@ -1,0 +1,5 @@
+export { default as CoursesLessonNav } from './CoursesLessonNav'
+export { default as CoursesLessonTest } from './CoursesLessonTest'
+export { default as CoursesLessonTop } from './CoursesLessonTop'
+export { default as CoursesLesssonFiles } from './CoursesLesssonFiles'
+export { default as CoursesLessonText } from './CoursesLessonText'

@@ -1,0 +1,18 @@
+  <svg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'>
+                           <path
+                              d='M23.0236 12.0801L17.3364 16.6591C16.2601 17.5029 14.7513 17.5029 13.675 16.6591L7.93896 12.0801'
+                              stroke='#9FADBF'
+                              strokeWidth='1.5'
+                              strokeLinecap='round'
+                              strokeLinejoin='round'
+                           />
+                           <path
+                              fillRule='evenodd'
+                              clipRule='evenodd'
+                              d='M9.18367 4.66602H21.7542C23.5667 4.68634 25.2919 5.45259 26.5278 6.78629C27.7638 8.11998 28.4027 9.90472 28.2958 11.7248V20.4287C28.4027 22.2488 27.7638 24.0335 26.5278 25.3672C25.2919 26.7009 23.5667 27.4672 21.7542 27.4875H9.18367C5.29045 27.4875 2.6665 24.3202 2.6665 20.4287V11.7248C2.6665 7.83328 5.29045 4.66602 9.18367 4.66602Z'
+                              stroke='#9FADBF'
+                              strokeWidth='1.5'
+                              strokeLinecap='round'
+                              strokeLinejoin='round'
+                           />
+                        </svg>

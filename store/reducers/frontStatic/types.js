@@ -1,0 +1,4 @@
+export const frontStaticTypes = {
+   RESET_FRONT_STATIC: 'RESET_FRONT_STATIC',
+   SET_FRONT_CONTACTS: 'SET_FRONT_CONTACTS',
+}
